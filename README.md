@@ -1,4 +1,4 @@
-# nh-player-h5 定制化开发
+# player-h5 竖屏播放器
 
 ## Project setup
 ```
