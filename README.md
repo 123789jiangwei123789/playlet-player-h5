@@ -1,4 +1,4 @@
-# nh-player-h5 定制化开发给马上消费客户使用
+# nh-player-h5 定制化开发
 
 ## Project setup
 ```
